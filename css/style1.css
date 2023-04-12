@@ -1,0 +1,77 @@
+/* Set body margin and padding to 0 */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0;
+    padding: 0;
+    background-image: url("https://www.reco.on.ca/wp-content/uploads/AskJoe-10Jun2022.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  
+  /* Style the form container */
+  .form-container {
+ 
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 25px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    background-color: #f8f8f8;
+    
+  }
+  
+  /* Style the form elements */
+  .form-container h3 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+    font-family: Verdana, sans-serif ;
+  }
+  
+  .form-container .box {
+    display: block;
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #555;
+  }
+  
+  .form-container .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #4CAF50;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .form-container .btn:hover {
+    background-color: #3e8e41;
+  }
+  
+  .form-container p {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #555;
+  }
+  
+  .form-container a {
+    color: #2c52d1;
+    text-decoration: none;
+  }
+  
+  .form-container a:hover {
+    text-decoration: underline;
+  }
+  

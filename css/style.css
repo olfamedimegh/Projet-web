@@ -1,0 +1,78 @@
+/* Reset default browser styles */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Set global font styles */
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background-image: url("https://www.reco.on.ca/wp-content/uploads/AskJoe-10Jun2022.jpg");
+    background-size: cover;
+    background-position: center;
+}
+  
+  /* Center the form container */
+  .form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  /* Style the form */
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Style the form header */
+  form h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-family: 'Trebuchet MS';
+  }
+  
+  /* Style the form input boxes */
+  form input[type="email"],
+  form input[type="password"] {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+  }
+  
+  /* Style the form link */
+  form p a {
+    color: #1686d6;
+    font-size: small;
+  }
+  
+  /* Style the form button */
+  form input[type="submit"] {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(11, 131, 61);
+    color: #fff;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
+  /* Add hover state to the form button */
+  form input[type="submit"]:hover {
+    background-color: #005ea8;
+  }
+  
