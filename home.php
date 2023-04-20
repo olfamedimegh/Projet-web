@@ -22,6 +22,12 @@ if(isset($_COOKIE['user_id'])){
 </head>
 <body>
     
+
+<!--header section --> 
+<section>
+<?php include 'components/user_header.php' ?>
+</section>
+
 <!-- home section -->
 
 <div class="home">
@@ -184,4 +190,7 @@ if(isset($_COOKIE['user_id'])){
 <?php include 'components/message.php' ?>
 
 </body>
+
+
+
 </html>
