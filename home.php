@@ -174,6 +174,14 @@ if(isset($_COOKIE['user_id'])){
 
 </section>
 
+<!-- alert cdn link-->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
+
+<!-- js file link-->
+<script src ="js/script.js"></script>
+
+<?php include 'components/message.php' ?>
 
 </body>
 </html>
