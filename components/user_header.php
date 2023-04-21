@@ -1,6 +1,6 @@
 <header class="header">
 
-    <div class="nav nav-1">
+    <div class="navbar nav-1">
         <section class="flex">
             <a href="home.php" class ="logo"><i class="fas fa-house"></i>MyHome </a>
         
@@ -11,7 +11,7 @@
         </section>
 
     </div> 
-    <div class="nav nav-2">
+    <div class="navbar nav-2">
         <section class = "flex">
             <div id="menu-btn" class="fas fa-bars">
 
