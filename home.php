@@ -1,4 +1,4 @@
-<?php  
+<!-- php  
 
 include 'components/ConnexionBD.php';
 
@@ -6,9 +6,9 @@ if(isset($_COOKIE['user_id'])){
    $user_id = $_COOKIE['user_id'];
 }else{
    $user_id = '';
-}
+} -->
 
-?>
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -179,12 +179,18 @@ if(isset($_COOKIE['user_id'])){
 <section class="listings">
 
 <h1 class="heading">latest listings</h1>
+<div class="box-container">
+</div>
 
 </section>
 
 <!-- alert cdn link-->
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
+
+<!-- footer section  -->
+<?php include 'components/footer.php'; ?>
+
 
 <!-- js file link-->
 <script src ="js/script.js"></script>
