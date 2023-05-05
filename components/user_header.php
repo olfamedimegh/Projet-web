@@ -28,7 +28,7 @@
                    <li><a href="#">options <i class= "fas fa-angle-down"></i></a>
                         <ul>
                             <li><a href="search.php">filter search</a></li>
-                            <li><a href="listing.php">listing</a></li>
+                            <li><a href="listing.php">All listings</a></li>
                         </ul>             
                    </li>
                    <li><a href="#">help <i class= "fas fa-angle-down"></i></a>
