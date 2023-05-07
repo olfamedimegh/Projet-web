@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400&display=swap');
+
+:root{
+    --main-color:green;
+    --light-color:#666;
+    --light-bg:#eee;
+    --white:#fff;
+    --black:#303030;
+    --border:.1rem solid var(--light-color);
+    --box-shodow:0 .5rem 1rem rgba(0,0,0,.1);
+}
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+    outline: none; border: none;
+    text-decoration: none;
+}
+
+*::selection{
+    background-color: var(--main-color);
+    color: var(--white);
+}
+
+*::-webkit-scrollbar{
+    height: .5rem;
+    width: 1rem;
+}
+
+*::-webkit-scrollbar-track{
+    background-color: transparent;
+}
+
+*::-webkit-scrollbar-thumb{
+    background-color: var(--main-color);
+}
+
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+    scroll-padding-top: 10rem;
+}
+
+body{
+    background-color: var(--light-bg);
+}
+
+section{
+    padding: 3rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.heading{
+    text-align: center;
+    padding-bottom: 2.5rem;
+    font-size: 3rem;
+    color: var(--black);
+    text-transform: capitalize;
+}
+
+.empty{
+    width: 100%;
+    background-color: var(--white);
+    padding: 1.5rem;
+    text-align: center;
+    font-size: 2rem;
+    color: var(--black);
+}
+
+.btn,
+.inline-btn{
+    margin-top: 1rem;
+    padding: 1rem 3rem;
+    background-color: var(--main-color);
+    color: var(--white);
+    cursor: pointer;
+    text-align: center;
+    font-size: 1.8rem;
+    text-transform: capitalize;
+}
+
+.btn:hover,
+.inline-btn:hover{
+    background-color: var(--black);
+}
+
+.btn{
+    display: block;
+    width: 100%;
+}
+
+.inline-btn{
+    display: inline-block;
+}
+
+.flex-btn {
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+    align-items: flex-end;
+}
