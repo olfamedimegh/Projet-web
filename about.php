@@ -13,7 +13,7 @@
 
     <!-- custom css file link  -->
     <link rel="stylesheet" href="css/style_about.css">
-    <link rel="stylesheet" href="css/styleAll.css">
+    <link rel="stylesheet" href="css/style_home.css">
 
 
 </head>
@@ -31,7 +31,7 @@
         </div>
         <div class="content">
             <h3>why choose us?</h3>
-            <a href="contact.html" class="inline-btn">contact us</a>
+            <a href="contact.php" class="inline-btn">contact us</a>
         </div>
     </div>
 
