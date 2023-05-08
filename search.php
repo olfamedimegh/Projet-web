@@ -315,8 +315,9 @@ if(isset($_POST['h_search'])){
 <?php include 'components/message.php'; ?>
 
 <script>
-   //responsive part
    
+   //responsive part
+
 document.querySelector('#filter-btn').onclick = () =>{
    document.querySelector('.filters').classList.add('active');
 }
