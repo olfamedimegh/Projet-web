@@ -8,7 +8,7 @@ if(isset($_COOKIE['user_id'])){
    $user_id = '';
 }
 
-/*include 'components/save_send.php';*/
+include 'components/save_send.php';
 
 ?> 
 
