@@ -138,37 +138,37 @@ include 'components/save_send.php';
    <div class="box">
       <img src="images/icon-1.png" alt="">
       <h3>buy house</h3>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque, incidunt.</p>
+      <p>Our team can help you find your dream home and guide you through the buying process.</p>
    </div>
 
    <div class="box">
       <img src="images/icon-2.png" alt="">
       <h3>rent house</h3>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque, incidunt.</p>
+      <p>Whether you're looking for a short-term or long-term rental, we have a variety of properties to choose from.</p>
    </div>
 
    <div class="box">
       <img src="images/icon-3.png" alt="">
       <h3>sell house</h3>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque, incidunt.</p>
+      <p>No matter what path you take to sell your home, we can help you navigate a successful sale.</p>
    </div>
 
    <div class="box">
       <img src="images/icon-4.png" alt="">
       <h3>flats and buildings</h3>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque, incidunt.</p>
+      <p>We have a wide range of flats and buildings for sale or rent, from cozy studios to spacious apartments and commercial buildings.</p>
    </div>
 
    <div class="box">
       <img src="images/icon-5.png" alt="">
       <h3>shops and malls</h3>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque, incidunt.</p>
+      <p>Looking for a prime location for your business? We offer a variety of shops and malls for lease or sale in high-traffic areas.</p>
    </div>
 
    <div class="box">
       <img src="images/icon-6.png" alt="">
       <h3>24/7 service</h3>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque, incidunt.</p>
+      <p>We're available 24/7 to answer your questions, provide assistance, and ensure that your real estate needs are met.</p>
    </div>
 
 </div>
