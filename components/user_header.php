@@ -20,7 +20,7 @@
                 <ul>
                     <li><a href="#">my listings <i class= "fas fa-angle-down"></i></a>
                         <ul>
-                            <li><a href="dashboard.php">dashboard</a></li>
+                            <li><a href="../admin/dashboard.php">dashboard</a></li>
                             <li><a href="post_property.php">post property</a></li>
                             <li><a href="my_listings.php">my listing</a></li>
                         </ul>             
