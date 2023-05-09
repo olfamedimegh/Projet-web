@@ -289,15 +289,13 @@ if(isset($_POST['post'])){
             <div class="box">
                 <p>how many BHK <span>*</span></p>
                 <select name="bhk" required class="input">
-                    <option value="1">1 BHK</option>
-                    <option value="2">2 BHK</option>
-                    <option value="3">3 BHK</option>
-                    <option value="4">4 BHK</option>
-                    <option value="5">5 BHK</option>
-                    <option value="6">6 BHK</option>
-                    <option value="7">7 BHK</option>
-                    <option value="8">8 BHK</option>
-                    <option value="9">9 BHK</option>
+                    <option value="0">S+0</option>
+                    <option value="1">S+1</option>
+                    <option value="2">S+2</option>
+                    <option value="3">S+3</option>
+                    <option value="4">S+4</option>
+                    <option value="5">S+5</option>
+                    <option value="more">more</option>
                 </select>
             </div>
             <div class="box">
@@ -309,10 +307,7 @@ if(isset($_POST['post'])){
                     <option value="3">3 bedroom</option>
                     <option value="4">4 bedroom</option>
                     <option value="5">5 bedroom</option>
-                    <option value="6">6 bedroom</option>
-                    <option value="7">7 bedroom</option>
-                    <option value="8">8 bedroom</option>
-                    <option value="9">9 bedroom</option>
+                    <option value="more">more</option>
                 </select>
             </div>
             <div class="box">
@@ -323,10 +318,7 @@ if(isset($_POST['post'])){
                     <option value="3">3 bathroom</option>
                     <option value="4">4 bathroom</option>
                     <option value="5">5 bathroom</option>
-                    <option value="6">6 bathroom</option>
-                    <option value="7">7 bathroom</option>
-                    <option value="8">8 bathroom</option>
-                    <option value="9">9 bathroom</option>
+                    <option value="more">more</option>
                 </select>
             </div>
             <div class="box">
@@ -338,10 +330,7 @@ if(isset($_POST['post'])){
                     <option value="3">3 balcony</option>
                     <option value="4">4 balcony</option>
                     <option value="5">5 balcony</option>
-                    <option value="6">6 balcony</option>
-                    <option value="7">7 balcony</option>
-                    <option value="8">8 balcony</option>
-                    <option value="9">9 balcony</option>
+                    <option value="more">more</option>
                 </select>
             </div>
             <div class="box">
