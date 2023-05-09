@@ -25,7 +25,6 @@ include 'components/save_send.php';
 
     <!-- custom css file link  -->
     <link rel="stylesheet" href="css/style_home.css">
-    <link rel="stylesheet" href="css/style_listings.css">
 
 </head>
 <body>

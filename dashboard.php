@@ -24,7 +24,6 @@ if(isset($_COOKIE['user_id'])){
 
     <!-- custom css file link  -->
     <link rel="stylesheet" href="css/style_home.css">
-    <link rel="stylesheet" href="css/style_dashboard.css">
 
 </head>
 <body>
