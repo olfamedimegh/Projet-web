@@ -253,7 +253,7 @@ include 'components/save_send.php';
             <div class="flex">
                <p><i class="fas fa-house"></i><span><?= $fetch_property['type']; ?></span></p>
                <p><i class="fas fa-tag"></i><span><?= $fetch_property['offer']; ?></span></p>
-               <p><i class="fas fa-bed"></i><span><?= $fetch_property['bhk']; ?> BHK</span></p>
+               <p><i class="fas fa-bed"></i><span><?= $fetch_property['bhk']; ?></span></p>
                <p><i class="fas fa-trowel"></i><span><?= $fetch_property['status']; ?></span></p>
                <p><i class="fas fa-couch"></i><span><?= $fetch_property['furnished']; ?></span></p>
                <p><i class="fas fa-maximize"></i><span><?= $fetch_property['carpet']; ?>m²</span></p>

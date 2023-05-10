@@ -119,7 +119,7 @@ if(isset($_POST['delete'])){
                         <p><i class="far fa-image"></i><span><?= $total_images; ?></span></p>
                         <img src="uploaded_files/<?= $fetch_property['image_01']; ?>" alt="">
                     </div>
-                    <div class="price"><i class="fas fa-indian-rupee-sign"></i><span><?= $fetch_property['price']; ?></span></div>
+                    <div class="price"><i class="fas fa-sharp fa-regular fa-dollar-sign"></i><span><?= $fetch_property['price']; ?></span></div>
                     <h3 class="name"><?= $fetch_property['property_name']; ?></h3>
                     <p class="location"><i class="fas fa-map-marker-alt"></i><span><?= $fetch_property['address']; ?></span></p>
                     <div class="flex-btn">

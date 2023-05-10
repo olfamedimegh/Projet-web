@@ -130,7 +130,7 @@ if(isset($_POST['delete'])){
                 <h3 class="title">details</h3>
                 <div class="flex">
                     <div class="box">
-                        <p><i>rooms :</i><span><?= $fetch_property['bhk']; ?> BHK</span></p>
+                        <p><i>rooms :</i><span><?= $fetch_property['bhk']; ?></span></p>
                         <p><i>deposit amount : </i><span><span class="fa-solid fa-dollar-sign" style="margin-right: .5rem;"></span><?= $fetch_property['deposite']; ?></span></p>
                         <p><i>status :</i><span><?= $fetch_property['status']; ?></span></p>
                         <p><i>bedroom :</i><span><?= $fetch_property['bedroom']; ?></span></p>
