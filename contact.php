@@ -47,7 +47,7 @@ if(isset($_POST['send'])){
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css">
 
     <!-- custom css file link  -->
-    <link rel="stylesheet" href="css/style_home.css">
+    <link rel="stylesheet" href="css/final.css">
 
 </head>
 <body>
@@ -86,32 +86,32 @@ if(isset($_POST['send'])){
 
         <div class="box active">
             <h3><span>how to cancel booking?</span><i class="fas fa-angle-down"></i></h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus veritatis ducimus aut accusantium sunt error esse laborum cumque ipsum ab.</p>
+            <p>To cancel your booking you'll have  to contact the person who owns the property add. You'll find their contacts in the discription of the property.</p>
         </div>
 
         <div class="box active">
             <h3><span>when will I get the possession?</span><i class="fas fa-angle-down"></i></h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus veritatis ducimus aut accusantium sunt error esse laborum cumque ipsum ab.</p>
+            <p>A homebuyer's possession date might not come until the deed has been recorded, which could be weeks after closing.</p>
         </div>
 
         <div class="box">
             <h3><span>where can I pay the rent?</span><i class="fas fa-angle-down"></i></h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus veritatis ducimus aut accusantium sunt error esse laborum cumque ipsum ab.</p>
+            <p>We're sorry that we don't offer online payment. We'd rather have you contact the property owner and figure out a path that suits you both.</p>
         </div>
 
         <div class="box">
             <h3><span>how to contact with the buyers?</span><i class="fas fa-angle-down"></i></h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus veritatis ducimus aut accusantium sunt error esse laborum cumque ipsum ab.</p>
+            <p>When opening your dashboard you can acess all requests. There you'll find the buyer's contacts.</p>
         </div>
 
         <div class="box">
             <h3><span>why my listing not showing up?</span><i class="fas fa-angle-down"></i></h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus veritatis ducimus aut accusantium sunt error esse laborum cumque ipsum ab.</p>
+            <p>If your listing has incomplete or inaccurate information, it may not be displayed on the website. Make sure all required fields are filled out and that the information you have provided is accurate. If that didn't help try contacting us.</p>
         </div>
 
         <div class="box">
             <h3><span>how to promote my listing?</span><i class="fas fa-angle-down"></i></h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus veritatis ducimus aut accusantium sunt error esse laborum cumque ipsum ab.</p>
+            <p>You can share your add's link on your social media accounts that way you'll have more visiters that acess it.</p>
         </div>
 
     </div>
