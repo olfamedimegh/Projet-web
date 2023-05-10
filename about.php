@@ -40,7 +40,7 @@ if(isset($_COOKIE['user_id'])){
             <img src="images/about-img.jpg" alt="">
         </div>
         <div class="content">
-            <h3>why choose us?</h3>
+            <h3>why choose us? <br><h2>We strive to provide the best experience possible for our users and greatly appreciate all feedback, positive or negative.</h2></h3>
             <a href="contact.php" class="inline-btn">contact us</a>
         </div>
     </div>
@@ -100,14 +100,14 @@ if(isset($_COOKIE['user_id'])){
                     </div>
                 </div>
             </div>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci voluptates delectus distinctio quam sequi error eum suscipit tempore inventore ex!</p>
+            <p>I recently used this website to book a vacation rental and was extremely satisfied with the entire process. The user interface is very intuitive and easy to navigate, and the selection of properties is vast. The booking process was seamless and I appreciated the detailed information provided about each property. I will definitely use this website again in the future.</p>
         </div>
 
         <div class="box">
             <div class="user">
                 <img src="images/pic-2.png" alt="">
                 <div>
-                    <h3>john deo</h3>
+                    <h3>Asma elhadj</h3>
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -117,14 +117,14 @@ if(isset($_COOKIE['user_id'])){
                     </div>
                 </div>
             </div>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci voluptates delectus distinctio quam sequi error eum suscipit tempore inventore ex!</p>
+            <p>I had to cancel a booking on this website due to unforeseen circumstances and was pleasantly surprised by how easy and hassle-free the cancellation process was. The customer service team was very responsive and understanding, and I received a prompt refund. I highly recommend this website for anyone looking for a reliable and user-friendly platform for booking real estate properties.</p>
         </div>
 
         <div class="box">
             <div class="user">
                 <img src="images/pic-3.png" alt="">
                 <div>
-                    <h3>john deo</h3>
+                    <h3>johnny depp</h3>
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -134,14 +134,14 @@ if(isset($_COOKIE['user_id'])){
                     </div>
                 </div>
             </div>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci voluptates delectus distinctio quam sequi error eum suscipit tempore inventore ex!</p>
+            <p>I was able to find my dream home on this website thanks to the extensive listings and powerful search tools. The website also provides helpful information about the neighborhoods and amenities in the area, which was very useful in making my decision. Overall, I had a great experience using this website and would highly recommend it to anyone in the market for real estate.</p>
         </div>
 
         <div class="box">
             <div class="user">
                 <img src="images/pic-4.png" alt="">
                 <div>
-                    <h3>john deo</h3>
+                    <h3>olfa medimegh</h3>
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -151,14 +151,14 @@ if(isset($_COOKIE['user_id'])){
                     </div>
                 </div>
             </div>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci voluptates delectus distinctio quam sequi error eum suscipit tempore inventore ex!</p>
+            <p>I have used this website to book several business trips and have always been impressed with the selection of properties and the competitive prices. The website is very easy to use and I appreciate the ability to filter my search results based on my specific needs. I have recommended this website to colleagues and will continue to do so.</p>
         </div>
 
         <div class="box">
             <div class="user">
                 <img src="images/pic-5.png" alt="">
                 <div>
-                    <h3>john deo</h3>
+                    <h3>hamza balloumi</h3>
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -168,14 +168,14 @@ if(isset($_COOKIE['user_id'])){
                     </div>
                 </div>
             </div>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci voluptates delectus distinctio quam sequi error eum suscipit tempore inventore ex!</p>
+            <p>As a first-time homebuyer, I found the process of finding and purchasing a home to be daunting. However, this website provided me with all the resources I needed to feel confident in my decision. The listings were accurate and detailed, and the mortgage calculator was a helpful tool in determining my budget. I would highly recommend this website to anyone in the market for real estate.</p>
         </div>
 
         <div class="box">
             <div class="user">
                 <img src="images/pic-6.png" alt="">
                 <div>
-                    <h3>john deo</h3>
+                    <h3>walae ali</h3>
                     <div class="stars">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -185,10 +185,8 @@ if(isset($_COOKIE['user_id'])){
                     </div>
                 </div>
             </div>
-            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Adipisci voluptates delectus distinctio quam sequi error eum suscipit tempore inventore ex!</p>
+            <p>I recently listed my property on this website and was very impressed with the level of exposure it received. Within a few days of listing, I received several inquiries and ultimately sold my property quickly and for a great price. The website's user interface for sellers is also very intuitive and easy to use. I would definitely use this website again in the future.</p>
         </div>
-
-    </div>
 
 </section>
 
