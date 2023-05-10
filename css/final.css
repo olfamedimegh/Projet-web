@@ -7,7 +7,7 @@
     --white:#fff;
     --black:#303030;
     --border:.1rem solid var(--light-color);
-    --box-shodow:0 .5rem 1rem rgba(0,0,0,.1);
+    --box-shodow:0 .5rem 1rem rgba(102, 211, 144, 0.651);
 }
 
 *{
@@ -264,6 +264,8 @@ section{
     box-shadow: var(--box-shodow);
     padding: 2rem;
     text-align: center;
+    height: 33rem;
+    width: 30rem;
 }
 
 .services .box-container .box img{

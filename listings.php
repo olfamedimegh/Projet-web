@@ -113,7 +113,7 @@ include 'components/save_send.php';
                             <p><i class="fas fa-bed"></i><span><?= $fetch_property['bhk']; ?> BHK</span></p>
                             <p><i class="fas fa-trowel"></i><span><?= $fetch_property['status']; ?></span></p>
                             <p><i class="fas fa-couch"></i><span><?= $fetch_property['furnished']; ?></span></p>
-                            <p><i class="fas fa-maximize"></i><span><?= $fetch_property['carpet']; ?>sqft</span></p>
+                            <p><i class="fas fa-maximize"></i><span><?= $fetch_property['carpet']; ?>m²</span></p>
                         </div>
                         <div class="flex-btn">
                             <a href="view_property.php?get_id=<?= $fetch_property['id']; ?>" class="btn">view property</a>

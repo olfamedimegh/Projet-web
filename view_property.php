@@ -100,7 +100,7 @@ include 'components/save_send.php';
                         <p><i>balcony :</i><span><?= $fetch_property['balcony']; ?></span></p>
                     </div>
                     <div class="box">
-                        <p><i>carpet area :</i><span><?= $fetch_property['carpet']; ?>sqft</span></p>
+                        <p><i>carpet area :</i><span><?= $fetch_property['carpet']; ?>m²</span></p>
                         <p><i>age :</i><span><?= $fetch_property['age']; ?> years</span></p>
                         <p><i>total floors :</i><span><?= $fetch_property['total_floors']; ?></span></p>
                         <p><i>room floor :</i><span><?= $fetch_property['room_floor']; ?></span></p>

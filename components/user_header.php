@@ -22,7 +22,7 @@
                         <ul>
                             <li><a href="dashboard.php">dashboard</a></li>
                             <li><a href="post_property.php">post property</a></li>
-                            <li><a href="my_listings.php">my listing</a></li>
+                            <li><a href="my_listings.php">my listings</a></li>
                         </ul>             
                    </li>
                    <li><a href="#">options <i class= "fas fa-angle-down"></i></a>
@@ -44,10 +44,11 @@
                 <li><a href="saved.php">saved<i class="fas fa-heart"></i></a></li>
                 <li><a href="#">account <i class="fas fa-angle-down"></i></a>
                     <ul>
-                   
+                    <?php if($user_id == ''){ ?>
                         <li><a href="login.php">login</a></li>
                         <li><a href="register.php">register</a></li>
-                        <?php if ($_COOKIE['user_id'] !=''){ ?>
+                        <?php }
+                            if($user_id != ''){ ?>
                             <li><a href="update.php">update profile</a></li>
                             <li> <a href="components/user_logout.php" onclick = "return confirm('logout from this website?');">logout</a>
                         <?php }?></li>
