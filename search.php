@@ -275,7 +275,6 @@ if(isset($_POST['h_search'])){
                </div>
             </div>
          </div>
-         </div>
          <div class="box">
             <div class="price"><i class="fas fa-sharp fa-regular fa-dollar-sign"></i><span><?= $fetch_property['price']; ?></span></div>
             <h3 class="name"><?= $fetch_property['property_name']; ?></h3>
